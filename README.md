@@ -6,9 +6,9 @@
 
 ![](logo.jpg)
 
-I am a DevOps Engineer ☁️, Tech lover 🚀 and Backend developer 💻
+I am a DevOps Engineer ☁️, tech lover and Backend developer 💻
 
-I am very passionate about tech, the cloud.
+I am very passionate about tech and the cloud.
 
 🔭 I’m currently working on building secure pipelines to take code to the moon 🚀
 
