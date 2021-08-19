@@ -4,7 +4,7 @@
   <a href="https://utibeabasiumanah6.medium.com/">📖 Blog</a> • 
 </p>
 
-<img align="center" width="100" height="100" src="logo.jpg">
+![](logo.jpg)
 
 I am a DevOps Engineer ☁️, Tech lover 🚀 and Backend developer 💻
 
