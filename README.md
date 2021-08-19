@@ -3,9 +3,9 @@
   <a href="https://utibeumanah.herokuapp.com">🌍 Website</a> • 
   <a href="https://utibeabasiumanah6.medium.com/">📖 Blog</a> • 
 </p>
-<p align="center">
+
 ![](logo.jpg)
-</p>
+
 I am a DevOps Engineer ☁️, Tech lover 🚀 and Backend developer 💻
 
 I am very passionate about tech, the cloud.
