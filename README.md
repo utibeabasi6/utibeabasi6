@@ -20,7 +20,7 @@ I am very passionate about tech and the cloud.
 
 ⚡ Fun fact: ...i don't know any
 
-[![Utibeabasi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=utibeabasi6&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/utibeabasi6/github-readme-stats) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=utibeabasi6&langs_count=20&theme=radical)]()
+[![Utibeabasi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=utibeabasi6&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/utibeabasi6/github-readme-stats) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=utibeabasi6&langs_count=20&theme=radical&hide=ruby )]()
 <!--
 **utibeabasi6/utibeabasi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
