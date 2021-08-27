@@ -19,6 +19,8 @@ I am very passionate about tech and the cloud.
 💬 Ask me about IAAC, CI/CD and anything DevOps related
 
 ⚡ Fun fact: ...i don't know any
+
+[![Utibeabasi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=utibeabasi6&count_private=true&show_icons=true&theme=radical)](https://github.com/utibeabasi6/github-readme-stats) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=utibeabasi6&langs_count=5&theme=radical)]()
 <!--
 **utibeabasi6/utibeabasi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
