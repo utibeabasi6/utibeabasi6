@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi, I'm Utibeabasi Umanah ✌️</h3>
 <p align="center">
-  <a href="https://utibeumanah.herokuapp.com">🌍 Website</a> • 
+  <a href="https://utibeumanah.netlify.app">🌍 Website</a> • 
   <a href="https://utibeabasiumanah6.medium.com/">📖 Blog</a> • 
 </p>
 
