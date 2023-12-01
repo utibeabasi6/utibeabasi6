@@ -6,11 +6,7 @@
 
 <!-- ![](logo.jpg) -->
 
-I am a DevOps Engineer ☁️, tech lover and Backend developer 💻
-
-I am very passionate about tech and the cloud.
-
-🔭 I’m currently working on building secure pipelines to take code to the moon 🚀
+I am a DevOps Engineer ☁️ 🏗️
 
 🌱 I’m currently learning more about DevOps, DevSecOps and the cloud in general
 
@@ -28,16 +24,34 @@ I am very passionate about tech and the cloud.
 ![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=222222&logo=Terraform&logoColor=3970E4&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=) 
 
-
-#### Profile Visits 
-
 ![visitors](https://komarev.com/ghpvc/?username=utibeabasi6)
 
-### :mailbox: Contact me!
+**Languages and Tools:**  
 
-[![Twitter Badge](https://img.shields.io/badge/-@utibeumanah_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/utibeumanah_) [![Linkedin Badge](https://img.shields.io/badge/-Utibeabasi_Umanah-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utibeabasiumanah/) [![Instagram Badge](https://img.shields.io/badge/-@utibeumanah_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/utibeumanah_)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
-[![Utibeabasi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=utibeabasi6&count_private=true&show_icons=true&theme=radical)](https://github.com/utibeabasi6/github-readme-stats) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=utibeabasi6&langs_count=5&theme=radical&hide=ruby )]()
+
+
+ **👨🏾‍💻 My GitHub Data:**
+
+|                                                                                                            .                                                                                                            |                                                                             .                                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=utibeabasi6&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000&ring=DD2727&currStreakNum=00DD3DC2&background=000000)](#!) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utibeabasi6&layout=compact&theme=vision-friendly-dark&hide_border=true)](#!) |
+
+<div id="github_stats" align="center">
+
+<!--[![Utibeabasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=utibeabasi6&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)-->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=redical&hide_border=true)
+
+</div>
 <!--
 **utibeabasi6/utibeabasi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
