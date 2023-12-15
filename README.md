@@ -15,7 +15,7 @@
 🌱 Interests:
 - Building Tooling with Golang
 - Serverless computing
-- Ebpf
+- eBPF
 - Distributed Systems
 
 🚀 Let's Build Together!
