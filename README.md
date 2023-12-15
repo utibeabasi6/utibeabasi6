@@ -2,7 +2,7 @@
 
 📝 What I Do:
 - I currently work as a DevOps Engineer.
-- Building cool stuf at Fleek 🔍
+- Building cool stuff at Fleek 🔍
 - Share my progress and thoughts through my articles
 - Love to chat about, DevOps, SRE, and everything Tech 😄
 - Currently exploring eBPF, Linux Internals, Firecracker and more
