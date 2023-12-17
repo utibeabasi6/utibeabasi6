@@ -18,7 +18,7 @@
 - eBPF
 - Distributed Systems
 
-🚀 Let's Build Together!
+🚀 Let's Build infrastructure together!
 <!--
 **utibeabasi6/utibeabasi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
