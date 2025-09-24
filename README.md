@@ -9,7 +9,7 @@
 🏗️ Toolbox:
 - Linux, Kubernetes, AWS, Docker, Digitalocean, Github Actions
 - Ansible, Terraform, AWS CDK
-- Python, Golang, Typescript
+- Rust, Python, Golang, Typescript
 
 🌱 Interests:
 - Building Tooling with Golang
